@@ -10,6 +10,7 @@ nav ul {
 	background-color: #010e80;
 	display: table;
 	width: 100%;
+        position: static;
 }
 
 nav li {
@@ -22,6 +23,7 @@ li a {
 	text-align: center;
 	padding: 30px 30px;
 	text-decoration: none;
+        position: relative;
 }
 
 li a:hover {
